@@ -1,0 +1,16 @@
+{
+  "name":"Mon Training — Carnet de musculation",
+  "short_name":"Mon Training",
+  "description":"Ton programme, tes chronos, tes charges en lb et ta progression.",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#0c131e",
+  "theme_color":"#0e1520",
+  "orientation":"portrait-primary",
+  "lang":"fr",
+  "icons":[
+    {"src":"./assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
